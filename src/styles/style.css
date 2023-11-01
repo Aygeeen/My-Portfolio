@@ -4,8 +4,8 @@
     padding: 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #fff;
-    width: 300px; /* You can adjust the width to your liking */
-    margin: 0 auto; /* Center the card horizontally */
+    width: 300px;
+    margin: 80px auto;
     text-align: center;
     color: #023b7e;
 }

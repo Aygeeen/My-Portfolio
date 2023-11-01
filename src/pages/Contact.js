@@ -7,7 +7,7 @@ const Contact = () => {
         <div className="card">
             <h1>Здесь вы можете связаться со мной</h1>
             <p>почта: wreckingkraken@gmail.com</p>
-            <p>insta: oygnn</p>
+            <p>inst: oygnn</p>
         </div>
     )
 }
